@@ -1,0 +1,7 @@
+*.pyc
+.Python
+flasktaskr/bin
+flasktaskr/lib
+flasktaskr/include
+
+.DS_store
